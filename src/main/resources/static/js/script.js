@@ -1,0 +1,3 @@
+window.onload = function() {
+    //access the API here...
+}

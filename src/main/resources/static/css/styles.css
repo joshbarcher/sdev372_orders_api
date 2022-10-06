@@ -1,0 +1,44 @@
+body {
+    width: 960px;
+    margin: 0 auto;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+tr, td, th {
+    border: 1px solid #347b3e;
+}
+
+th, td {
+    text-align: left;
+    padding: 4px 10px;
+}
+
+table {
+    background-color: #effeef;
+}
+
+tr:nth-of-type(even) {
+    background-color: #cfeed6;
+}
+
+tr:last-of-type {
+    background-color: #91d89f;
+    font-weight: bold;
+}
+
+p {
+    background-color: #cfeed6;
+    border: 1px solid #347b3e;
+    border-radius: 4px;
+    padding: 4px 10px;
+    margin: 10px 0;
+}
+
+h1 {
+    margin: 6px 0;
+    color: #2b6334;
+}
